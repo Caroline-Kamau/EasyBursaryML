@@ -2,7 +2,7 @@
 from flask import Flask, request, jsonify
 from sklearn.externals import joblib
 from keras import backend as K
-import tensorflow as tf
+#import tensorflow as tf
 import traceback
 import pandas as pd
 import numpy as np
@@ -10,7 +10,7 @@ import numpy as np
 # Your API definition
 app = Flask(__name__)
 
-@app.route('/predict', methods=['POST'])
+@app.route('/', methods=['POST'])
 def predict():
 
 	# tf.keras.backend.clear_session()
