@@ -12,7 +12,9 @@ app = Flask(__name__)
 
 @app.route('/predict', methods=['POST'])
 def predict():
-	tf.keras.backend.clear_session()
+
+	# tf.keras.backend.clear_session()
+	K.clear_session()
 	lr = joblib.load("model.pkl") # Load "model.pkl"
 
 	model_columns = joblib.load("model_columns.pkl") # Load "model_columns.pkl"
