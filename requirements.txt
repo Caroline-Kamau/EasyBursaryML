@@ -39,7 +39,6 @@ Flask==1.0.2
 future==0.17.1
 gevent==1.4.0
 glob2==0.6
-gmpy2==2.0.8
 greenlet==0.4.15
 h5py==2.9.0
 heapdict==1.0.0
