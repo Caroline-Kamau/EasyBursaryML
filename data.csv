@@ -1,0 +1,125 @@
+Courses,Grade,Year,SchoolCategory,FeesPer Year,FeeBalance,PaymentMode,MotherAlive,FatherAlive,FatherEmployment,MothersEmployment,Guardian,GuardianEmployment,FatherFinancialIncome,MotherFinancialIncome,Amount,Siblings,SiblingsFees,Awarded
+BAIS,A,2014,private,134200,0,Parent,1,1,unemployed,employed,none,no,0,152000,,2,134272,no
+BAC,B+,2015,private,90000,0,Parent,1,1,self employed,employed,none,no,130000,152000,130000,7,,no
+BAC,B,2017,ExtraCounty,53000,0,Guardian,0,0,deceased,deceased,brother,employed,0,0,50000,,,no
+BAC,C+,2016,private,89186,0,Scholarship,1,1,self employed,unemployed,none,self employed,130000,25000,0,2,,no
+BAIS,C+,2016,ExtraCounty,58000,166294,Parent,1,0,deceased,employed,none,no,0,40000,60000,no,,no
+BAC,A,2017,private,26000,0,Parent,1,1,blank,employed,none,no,,35000,40000,3,,yes
+BADSP,A,2015,national,110000,0,Parent,1,0,deceased,employed,none,no,0,34000,30000,no,,yes
+BAIS,B,2016,ExtraCounty,4921,0,Scholarship,1,0,deceased,employed,none,no,0,26470,20000,3,,yes
+BAC,C+,2017,private,27800,15000,Guardian,0,0,deceased,deceased,aunt,self employed,0,0,15000,2,51200,yes
+BAC,B,2015,national,60000,0,Scholarship,0,1,blank,deceased,none,no,,0,,1,,yes
+BADSP,C+,2014,county,28000,0,Scholarship,1,0,deceased,casual worker,none,no,0,10000,7000,1,,yes
+BAC,B,2017,county,67581,0,Scholarship,1,1,blank,self employed,none,no,,10000,17000,1,83600,yes
+BHM,B,2013,private,60000,0,Parent,1,1,employed,employed,none,no,170000,40000,450000,3,130000,yes
+BHM,C+,2016,county,51070,0,Parent,1,1,self employed,self employed,none,no,0,0,40000,no,,no
+BHM,C,2010,other,30000,0,Parent,1,1,employed,employed,none,no,60000,60000,33000,3,470000,yes
+BHM,C,2014,county,42000,0,Parent,1,1,employed,self employed,none,no,62956,35000,20000,3,72000,yes
+BHM,A,2015,county,68000,0,Guardian,1,0,deceased,employed,wellwisher,employed,0,72000,60000,2,115000,yes
+BHM,B+,2017,national,80000,0,Parent,1,1,self employed,self employed,none,no,125000,17000,90000,1,430000,yes
+LLB,A,2017,county,89000,0,Parent,1,1,employed,employed,none,no,95000,45000,90000,1,150000,yes
+LLB,B+,2017,private,225000,0,Parent,1,0,deceased,employed,none,no,0,86874,80000,4,166500,yes
+LLB,B+,2017,private,89186,0,Parent and Scholarship,1,1,self employed,employed,none,no,100000,119867,10000,3,300000,yes
+LLB,B+,2017,national,70000,0,Parent,1,0,deceased,employed,none,no,0,12000,100000,1,,yes
+LLB,B,2017,county,54000,0,Parent,1,1,retired,retired,none,no,136000,125000,100000,2,148000,no
+LLB,B,2016,private,150000,0,Guardian,1,0,deceased,self employed,grandfather,retired,0,0,50000,,,no
+LLB,B,2016,private,80000,0,Guardian,0,0,deceased,deceased,brother,employed,0,0,0,1,,no
+BBSACT,B,2016,private,288000,0,Parent,1,1,unemployed,employed,none,no,0,93000,,,,no
+BBSFE,B,2018,private,250000,0,Scholarship,0,0,deceased,deceased,none,no,0,0,0,2,,no
+BBSFEN,B,2017,national,63000,0,Parent,1,0,deceased,employed,none,no,0,24000,45000,3,81000,no
+BBSFEN,B,2018,ExtraCounty,53787,13000,fundraising,1,0,deceased,self employed,uncle,no,0,0,5000,2,57000,no
+BBSFE,B,2018,county,60000,0,Parent,1,1,employed,self employed,none,no,300000,0,170000,2,,no
+BBSFEN,B,2017,county,186000,0,Parent,1,1,employed,employed,none,no,125000,200000,125000,7,127000,no
+BBSACT,A,2018,private,150000,0,Parent,1,1,unemployed,unemployed,none,no,0,0,30000,5,300000,yes
+BBSFEN,B+,2018,ExtraCounty,53554,0,Parent,1,1,employed,employed,none,no,56960,63797,75000,1,53554,yes
+BBSACT,B+,2017,private,303000,0,Scholarship,1,1,employed,unemployed,none,no,24446,6000,50000,2,159000,yes
+BBSACT,B+,2016,national,68000,0,Parent,1,1,employed,self employed,none,no,16594,50000,50000,1,75000,yes
+BCOM,B,2017,private,120000,0,Parent,1,1,employed,unemployed,none,no,50000,0,100000,0,25000,yes
+BCOM,A,2018,private,166500,0,Parent,0,1,self employed,deceased,none,no,300000,0,100000,1,,no
+BCOM,B,2018,county,25000,0,Parent,1,1,self employed,employed,none,no,100000,0,35000,1,,no
+BCOM,B+,2018,county,25000,26000,Scholarship,1,1,employed,unemployed,none,no,20000,0,20000,3,95000,no
+BCOM,B,2018,national,56000,22000,Scholarship,1,1,unemployed,unemployed,none,no,0,3000,50000,2,,yes
+BCOM,B,2017,ExtraCounty,60000,0,Parent,1,1,employed,employed,none,no,30000,30000,50000,2,170000,no
+BCOM,B,2013,ExtraCounty,60000,0,Guardian,1,0,deceased,self employed,uncle,employed,0,75000,50000,1,50000,no
+BCOM,B,2015,private,210000,0,Parent,1,1,self employed,self employed,none,no,0,0,10000,1,,no
+BCOM,B,2018,private,47500,0,Parent,1,1,self employed,self employed,none,no,0,0,10000,4,9500,no
+BCOM,B,2018,national,69950,0,Parent,1,1,casual worker,employed,none,no,0,0,50000,,,no
+BCOM,B,2018,private,47500,0,Guardian,0,0,deceased,deceased,uncle,employed,0,0,0,2,,no
+BCOM,B,2018,private,50000,0,Parent,1,1,employed,employed,none,no,95000,0,50000,2,140000,no
+BCOM,B,2018,ExtraCounty,53000,0,Parent,1,0,deceased,self employed,none,no,0,29000,80000,2,63000,no
+BCOM,B,2018,private,80000,0,Parent,1,1,employed,employed,none,no,100000,350000,60000,1,310000,yes
+BCOM,B,2018,,45000,0,,1,1,employed,employed,none,no,45000,40000,72000,,60000,yes
+BCOM,B,2017,private,89186,0,Parent,,1,retired,unemployed,none,no,25000,0,36560,4,,yes
+BCOM,B,2017,ExtraCounty,53554,60870,Parent,1,1,employed,unemployed,none,no,13000,16000,40000,3,19000,no
+BCOM,B,2009,,15000,0,Parent,1,1,employed,casual worker,none,no,0,30000,0,,,no
+BCOM,B,2018,national,69950,0,Parent,1,1,unemployed,employed,none,no,0,90000,,4,,no
+BCOM,B,2003,,67000,0,Guardian,1,0,deceased,employed,other,employed,0,35000,34890,1,48000,yes
+BCOM,B,2015,,50000,126993,Parent,1,1,self employed,unemployed,none,no,97890,30000,40000,4,210000,no
+BCOM,B,2016,private,89186,0,Guardian,0,0,deceased,deceased,Grandmother,retired,0,0,12000,,,no
+BCOM,B,2017,county,56000,0,Parent and Scholarship,1,1,self employed,unemployed,none,no,30000,0,30000,5,33000,yes
+BCOM,B,2015,county,38000,3000,Guardian,1,0,deceased,employed,aunt,employed,0,30000,40000,0,,yes
+BCOM,B,2017,private,27800,12300,Scholarship,1,1,casual worker,casual worker,none,no,20000,12000,30000,2,27800,yes
+BCOM,B,2017,private,89186,0,,1,1,employed,self employed,uncle,employed,320000,0,15000,0,25000,yes
+BCOM,B,2017,,20000,0,,1,1,employed,retired,none,no,12000,8000,10000,0,,yes
+BCOM,B,2016,county,54000,0,Parent and Scholarship,1,1,employed,self employed,none,no,30000,30000,50000,2,20100,yes
+BCOM,B,2017,county,21000,0,Scholarship,1,1,self employed,casual worker,other,self employed,12000,15000,24560,6,,no
+BCOM,B,2018,ExtraCounty,53000,0,Scholarship,1,1,,,none,no,12000,12000,,,,yes
+BCOM,B,2015,private,125000,109334,Parent,1,1,employed,employed,none,no,25000,39000,40000,3,460000,yes
+BCOM,B,2017,ExtraCounty,40000,0,Scholarship,1,,,casual worker,none,no,78200,0,,4,51000,no
+BCOM,B,2018,private,24800,0,Parent,1,1,self employed,unemployed,none,no,12000,0,24800,3,36000,yes
+CPA,B,2015,county,30000,0,Scholarship,0,0,deceased,deceased,brother,employed,0,0,3300,4,20000,yes
+BCOM,B,2018,private,28000,4500,Guardian,1,1,unemployed,casual worker,none,no,0,10000,,4,16000,yes
+CPA,B,2018,national,52554,0,Scholarship,1,,,employed,none,no,16880,16880,,3,79200,no
+CPA,B,2014,,50000,0,,1,1,self employed,self employed,none,no,0,17000,12000,1,,no
+BCOM,B,2014,county,40000,0,wellwisher,1,0,,self employed,none,no,0,3000,,4,,no
+BCOM,B,2011,ExtraCounty,11000,0,Scholarship,1,1,self employed,self employed,none,no,15000,15000,10000,10,,yes
+BCOM,B,2015,county,34000,2900,Scholarship,1,1,self employed,self employed,none,no,18000,12000,20000,5,94500,no
+BCOM,B,2010,private,70000,39800,Parent,0,1,employed,,none,no,70312,0,9000,10,166000,no
+BCOM,B,2013,ExtraCounty,50000,0,relative,1,,,self employed,none,no,8000,10000,10000,,,yes
+BCOM,C+,2016,private,120000,174000,Parent,,,,,none,no,0,0,,,,no
+BCOM,C+,2014,county,18000,0,wellwisher,,,,,brother,employed,5600,0,15000,1,,yes
+BCOM,C+,2017,private,24250,0,Scholarship,,1,self employed,,none,no,7000,18000,24250,4,3000,yes
+BCOM,C+,2017,,27800,10000,Scholarship,1,,,self employed,none,no,12000,16000,,,,yes
+BCOM,C+,2011,county,38000,0,Guardian,1,0,deceased,unemployed,aunt,employed,0,0,50000,2,89200,yes
+BCOM,C+,2017,county,24250,0,Scholarship,1,1,self employed,self employed,other,employed,45000,30000,20000,5,,yes
+BCOM,C+,2017,other,35000,0,Parent,1,0,deceased,casual worker,none,no,0,13500,97000,3,50000,yes
+BCOM,C+,2010,private,45000,0,Parent,1,1,self employed,self employed,none,no,30000,30000,10000,,,no
+BCOM,C+,2017,private,15000,0,Guardian,0,0,deceased,deceased,other,employed,0,0,15000,5,10000,yes
+BCOM,C+,2015,,80000,0,Parent,1,1,retired,unemployed,aunt,self employed,0,89000,20000,2,148000,no
+BCOM,C+,2014,private,25000,0,Scholarship,1,0,deceased,unemployed,other,employed,0,0,45876,4,,yes
+BCOM,C+,2014,private,138000,46000,Parent,1,1,unemployed,unemployed,none,no,0,75000,,,,no
+BCOM,C+,2018,private,2800,0,Parent,1,1,employed,self employed,none,no,13000,6000,5000,2,2800,yes
+BCOM,C+,1999,,45000,,,,,,,none,no,0,0,,,,no
+BCOM,C+,2018,ExtraCounty,4921,60000,Scholarship,1,1,employed,self employed,none,no,13000,9000,10000,,193860,no
+BCOM,C+,2018,other,26333,0,Parent,,1,self employed,,none,no,35000,0,30000,2,,no
+BCOM,C+,2011,private,30000,0,Parent,,1,self employed,unemployed,none,no,45000,0,0,1,,no
+BCOM,C+,2018,private,27000,0,Parent,,1,employed,unemployed,none,no,60000,0,24000,4,70000,no
+BCOM,C+,2015,county,51070,0,,1,0,deceased,casual worker,none,no,0,0,0,1,,no
+BAC,C+,2018,private,28000,0,Guardian,1,1,unemployed,unemployed,sister,casual worker,0,3000,5000,2,,yes
+BCOM,C+,2014,,45000,0,Parent,1,,,employed,other,employed,0,10000,,3,60000,no
+CPA,C+,2018,county,40000,0,Scholarship,1,1,self employed,self employed,none,no,140000,10000,0,1,,no
+BCOM,C+,2012,county,52000,0,Scholarship,,0,deceased,unemployed,brother,self employed,0,330000,0,4,141000,no
+BCOM,C+,2013,county,65000,0,Guardian,0,,,deceased,sister,self employed,12000,0,20000,2,77000,yes
+BCOM,C+,2013,county,51070,0,Parent,1,1,employed,employed,none,no,11000,25400,7000,2,,yes
+BBSACT,A,2015,private,200000,179732,Scholarship,1,1,retired,employed,none,no,34000,230000,25000,1,,no
+BCOM,c,2017,private,89186,0,Parent,,,,,none,no,0,0,,,,no
+BBSFEN,A,2018,ExtraCounty,4921,0,Parent,1,1,employed,employed,none,no,0,0,,3,,no
+DBM,c,2017,ExtraCounty,53000,0,Parent,1,,unemployed,employed,none,no,0,0,,1,,no
+BCOM,c,2017,private,89186,0,Parent,1,0,deceased,employed,none,no,0,0,0,1,135000,no
+BCOM,c,2011,private,38000,0,Parent,1,,,casual worker,none,no,23000,13500,10000,1,,yes
+BCOM,D+,2009,private,89186,0,Parent,1,,,self employed,none,no,0,130000,,,,no
+BCOM,,2017,private,45000,0,Parent,0,1,self employed,deceased,uncle,self employed,45000,0,0,2,,no
+BCOM,B,2013,county,30000,0,Scholarship,,1,employed,unemployed,other,self employed,30000,7000,15000,2,39500,yes
+BCOM,B,2014,private,120000,0,Parent,1,,,self employed,none,no,89000,100000,20000,1,270000,yes
+CFA,B,2014,,60000,0,Scholarship,1,,,self employed,none,no,25000,25000,,1,,yes
+BCOM,B+,2015,ExtraCounty,40000,0,Scholarship,1,1,employed,unemployed,none,no,20000,12000,60000,3,130000,yes
+BCOM,B+,2018,ExtraCounty,4921,0,Parent,,,,,none,no,40000,24000,,,,yes
+BCOM,B+,2015,national,70000,0,Parent,1,,,self employed,none,,0,180000,30000,2,71500,yes
+BCOM,B+,2014,other,26400,0,,,,,,,,0,13000,,,,yes
+BCOM,B+,2017,county,83000,0,Scholarship,1,1,casual worker,casual worker,,,12500,11000,8000,1,,yes
+BCOM,A,2014,national,69950,0,Guardian,0,,,deceased,aunt,employed,12000,0,,,,yes
+BCOM,A,2018,private,250000,0,Scholarship,,,,,none,no,25000,7000,,,,yes
+BCOM,A,2014,county,60000,0,Parent,1,1,employed,self employed,none,no,55000,40000,50000,3,13500,yes
+BCOM,B,2016,ExtraCounty,4000,0,relative,0,0,deceased,deceased,sister,unemployed,0,0,12000,,,yes
+BCOM,B,2017,county,60000,0,Scholarship,1,1,retired,self employed,uncle,employed,11000,20000,15000,,,yes
+BCOM,B,2015,other,14000,0,relative,1,1,casual worker,self employed,none,no,10500,9000,40000,1,8000,yes
