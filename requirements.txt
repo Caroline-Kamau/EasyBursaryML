@@ -65,6 +65,7 @@ jupyter-console==6.0.0
 jupyter-core==4.4.0
 jupyterlab==0.35.4
 jupyterlab-server==0.2.0
+Keras.models==2.1.6 
 Keras==2.1.6 
 keyring==18.0.0
 kiwisolver==1.0.1
