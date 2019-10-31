@@ -2,7 +2,6 @@
 from flask import Flask, request, jsonify
 from sklearn.externals import joblib
 from keras import backend as K
-from tensorflow.keras.models import Sequential
 import traceback
 import pandas as pd
 import numpy as np
