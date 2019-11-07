@@ -102,11 +102,11 @@ BCOM,C+,2012,county,52000,0,Scholarship,,0,deceased,unemployed,brother,self empl
 BCOM,C+,2013,county,65000,0,Guardian,0,,,deceased,sister,self employed,12000,0,20000,2,77000,yes
 BCOM,C+,2013,county,51070,0,Parent,1,1,employed,employed,none,no,11000,25400,7000,2,,yes
 BBSACT,A,2015,private,200000,179732,Scholarship,1,1,retired,employed,none,no,34000,230000,25000,1,,no
-BCOM,c,2017,private,89186,0,Parent,,,,,none,no,0,0,,,,no
+BCOM,C,2017,private,89186,0,Parent,,,,,none,no,0,0,,,,no
 BBSFEN,A,2018,ExtraCounty,4921,0,Parent,1,1,employed,employed,none,no,0,0,,3,,no
-DBM,c,2017,ExtraCounty,53000,0,Parent,1,,unemployed,employed,none,no,0,0,,1,,no
-BCOM,c,2017,private,89186,0,Parent,1,0,deceased,employed,none,no,0,0,0,1,135000,no
-BCOM,c,2011,private,38000,0,Parent,1,,,casual worker,none,no,23000,13500,10000,1,,yes
+DBM,C,2017,ExtraCounty,53000,0,Parent,1,,unemployed,employed,none,no,0,0,,1,,no
+BCOM,C,2017,private,89186,0,Parent,1,0,deceased,employed,none,no,0,0,0,1,135000,no
+BCOM,C,2011,private,38000,0,Parent,1,,,casual worker,none,no,23000,13500,10000,1,,yes
 BCOM,D+,2009,private,89186,0,Parent,1,,,self employed,none,no,0,130000,,,,no
 BCOM,,2017,private,45000,0,Parent,0,1,self employed,deceased,uncle,self employed,45000,0,0,2,,no
 BCOM,B,2013,county,30000,0,Scholarship,,1,employed,unemployed,other,self employed,30000,7000,15000,2,39500,yes
