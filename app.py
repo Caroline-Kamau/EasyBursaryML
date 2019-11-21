@@ -28,9 +28,12 @@ def predict():
 			query = query.reindex(columns=model_columns, fill_value=0)
 
 			print(query)
-			prediction = lr.predict(query).round()
+			prediction = lr.predict(query).round().astype(int)
 
-			return jsonify({'prediction': str(prediction[0])})
+			print(prediction)
+
+
+			return jsonify({'prediction': str(prediction[0][0])})
 		except:
 			return jsonify({'trace': traceback.format_exc()})
 			#K.clear_session()	
